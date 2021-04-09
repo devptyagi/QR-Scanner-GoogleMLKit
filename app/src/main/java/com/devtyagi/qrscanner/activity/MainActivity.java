@@ -15,7 +15,6 @@ import android.widget.Toast;
 
 import com.devtyagi.qrscanner.R;
 import com.devtyagi.qrscanner.databinding.ActivityMainBinding;
-import com.devtyagi.qrscanner.util.FlashlightProvider;
 import com.google.mlkit.vision.barcode.Barcode;
 import com.google.mlkit.vision.barcode.BarcodeScanner;
 import com.google.mlkit.vision.barcode.BarcodeScannerOptions;
